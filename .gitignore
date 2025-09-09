@@ -1,1 +1,4 @@
 /.env
+tax.docx
+chroma/chroma.sqlite3
+*.bin
